@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1695155069 source:d:\embedded system iti\projects\bank_system project\bank_system\bank_system\client.c
+	"STD_TYPES.h"
+	"Bank_Account.h"
+
+1695142839 d:\embedded system iti\projects\bank_system project\bank_system\bank_system\std_types.h
+
+1695169655 d:\embedded system iti\projects\bank_system project\bank_system\bank_system\bank_account.h
+	<stdbool.h>
+
+1695169878 source:d:\embedded system iti\projects\bank_system project\bank_system\bank_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Bank_Account.h"
+
+1695166050 source:d:\embedded system iti\projects\bank_system project\bank_system\bank_system\admin.c
+	"STD_TYPES.h"
+	"Bank_Account.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1695169862 source:d:\embedded system iti\projects\bank_system project\bank_system\bank_system\bank_account.c
+	"STD_TYPES.h"
+	"Bank_Account.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
